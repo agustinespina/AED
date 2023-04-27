@@ -13,7 +13,7 @@
 A su vez se creará un archivo "output.txt", que muestre en pantalla "Hello, World".</li>
     </ul>
     <br>
-<li><b>Editor de Codigo Fuente:</b> Visual Studio Code</li>
+<li><b>Editor de Texto:</b> Visual Studio Code</li>
 <li><b>Compilador:</b> MSYS2</li>
 <li><b>Version del compilador:</b>  12.2.0 </li>
 <li><b>Lenguaje utilizado:</b> C++</li>    
